@@ -1,0 +1,6 @@
+{
+  "name": "NetScope Lab — Network Security Assessment",
+  "description": "Authorized sandbox network security assessment workbench featuring Nmap/Wireshark analysis, VLAN segmentation verification, CVSS v3.1 scoring, remediation diffs, and retest reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
